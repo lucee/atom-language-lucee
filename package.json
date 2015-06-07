@@ -1,0 +1,12 @@
+{
+  "name": "language-lucee",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Lucee syntax highlighting",
+  "repository": "https://github.com/lucee/atom-language-lucee",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {}
+}

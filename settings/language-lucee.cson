@@ -1,0 +1,4 @@
+'.text.html.lc':
+  'editor':
+    'commentStart': '<!--- '
+    'commentEnd': ' --->'
