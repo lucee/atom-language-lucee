@@ -1,4 +1,4 @@
-# Lucee Grammar for Atom
+# Lucee Syntax highlighting and snippets for Atom
 
 This project is based on a fork of the [CFML Grammar for Atom][1] project.
 
